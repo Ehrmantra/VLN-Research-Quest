@@ -4,6 +4,15 @@
 
 ---
 
+### 🚧 Project Status (项目状态)
+- **📅 Start Date (启动日期):** November 28, 2025
+- **🔄 Status (状态):** **Active & Rolling Out.** We are gradually producing and updating high-quality proposals. Stay tuned!
+  (**持续更新中。** 我们正在精细打磨并逐步产出新的高质量提案，敬请关注！)
+- **🔭 Future Scope (未来规划):** Although currently focused on **VLN**, we warmly welcome contributions from other **Embodied AI** sub-fields (e.g., Manipulation, Locomotion). We plan to expand our coverage to these areas in the future.
+  (**虽然目前主要面向 VLN 版块，但如果有具身智能其他版块的灵感也欢迎投稿，未来会面向其他领域进行更新。**)
+
+---
+
 ## 📖 What is this? (这是什么？)
 
 **VLN-Research-Quest** is an experimental platform designed to solve the "Idea Drought" in the Embodied AI research community.
@@ -38,18 +47,33 @@ Instead of starting from scratch, we leverage **Automated ArXiv Mining** and **L
 ## ⚡ How it works (如何使用)
 
 ### 1. Browse the Archive (浏览文库)
-Navigate to the **`ideas/`** folder (or browse the file list below). Each Markdown file represents a distinct research proposal, named by its core technology and target task.
-前往 **`ideas/`** 文件夹（或浏览下方的文件列表）。每一个 Markdown 文件代表一份独立的研究提案，文件按核心技术和目标任务命名。
+Navigate to the **`ideas/`** folder. Each Markdown file represents a distinct research proposal, named by its core technology and target task.
+前往 **`ideas/`** 文件夹。每一个 Markdown 文件代表一份独立的研究提案，文件按核心技术和目标任务命名。
 
 ### 2. Read & Evaluate (阅读与评估)
 Click on any `.md` file to read the full feasibility report, novelty analysis, and roadmap.
 点击任意 `.md` 文件阅读完整的可行性报告、创新分析和执行路线图。
 
-### 3. Implement & Contribute (实现与贡献)
-- **Use it:** Feel free to implement the idea in your own research.
-  **使用：** 欢迎在你的研究中实现这些想法。
-- **Feedback:** If you find a bug in the logic or want to improve the proposal, feel free to submit a **Pull Request** or open an **Issue** for discussion.
-  **反馈：** 如果你发现逻辑漏洞或想改进提案，欢迎提交 **Pull Request** 或开启 **Issue** 进行讨论。
+### 3. Implement (实现)
+Feel free to implement the idea in your own research. If you publish a paper, please acknowledge this repository.
+欢迎在你的研究中实现这些想法。如果你发表了论文，请致谢本仓库。
+
+---
+
+## 🤝 Call for Contributions (欢迎投稿)
+
+**Got a brilliant idea but no time to implement it? Share it here!**
+**有好点子但没时间做？分享出来！**
+
+We welcome submissions from the community. If you have a novel idea that you'd like to donate to the open-source community:
+我们非常欢迎来自社区的投稿。如果你有一个新颖的想法并愿意捐赠给开源社区：
+
+1.  **Fork** this repository. (Fork 本仓库)
+2.  Create a new `.md` file in the `ideas/` folder following our format. (在 `ideas/` 文件夹下按照我们的格式创建一个新的 `.md` 文件)
+3.  Submit a **Pull Request (PR)**. (提交 Pull Request)
+
+Once accepted, your idea will be listed here, and **you will be credited as a contributor**.
+一旦被接受，你的想法将被收录，并且**你将被列为贡献者**。
 
 ---
 
